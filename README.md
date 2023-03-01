@@ -1,2 +1,2 @@
-My first project, lul.
+very basic first project, lul.
 
